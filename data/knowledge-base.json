@@ -1,0 +1,205 @@
+[
+  {
+    "id": "order_001",
+    "category": "ORDER_TRACKING",
+    "title": "How to Track Your Order",
+    "content": "Once your order ships, we send an email and SMS with a tracking link and tracking number. You can also track it at any time from My Account > My Orders > Track Order. Tracking details usually appear within 24 hours of dispatch, so a newly shipped order may not show updates straight away.",
+    "keywords": ["track order", "tracking number", "shipment status", "where is my order"]
+  },
+  {
+    "id": "order_002",
+    "category": "ORDER_TRACKING",
+    "title": "Order Status Meanings",
+    "content": "Your order moves through these statuses: Placed, Confirmed, Packed, Shipped, Out for Delivery and Delivered. Placed means we received your order, Confirmed means payment has been verified, Packed means it is ready at the warehouse, Shipped means it has been handed to the courier, and Out for Delivery means it is due to arrive today.",
+    "keywords": ["order status", "processing", "shipped", "out for delivery"]
+  },
+  {
+    "id": "order_003",
+    "category": "ORDER_TRACKING",
+    "title": "Order Delayed Beyond the Estimated Date",
+    "content": "If your order has not arrived by the estimated delivery date, please wait 2 additional business days, as couriers can face weather or regional delays. If it still has not arrived, contact support with your order ID and we will raise a trace request with the courier partner. Trace requests are usually resolved within 3 business days.",
+    "keywords": ["delayed order", "late delivery", "not arrived", "missing parcel", "package not received"]
+  },
+  {
+    "id": "order_004",
+    "category": "ORDER_TRACKING",
+    "title": "Order Marked Delivered but Not Received",
+    "content": "If tracking shows Delivered but you have not received the parcel, check with neighbours, building security or family members, and allow 24 hours because scanning sometimes happens before hand-over. If it is still missing, report it within 48 hours of the Delivered status with your order ID so we can start an investigation with the courier.",
+    "keywords": ["delivered not received", "missing package", "wrong delivery status"]
+  },
+  {
+    "id": "return_001",
+    "category": "RETURN_REQUEST",
+    "title": "Return Policy",
+    "content": "Most items can be returned within 30 days of delivery. Items must be unused and in their original packaging with all tags, accessories and the invoice included. After the returned item passes inspection at our warehouse, the return is approved and a refund is issued.",
+    "keywords": ["return policy", "return window", "30 days", "send back product"]
+  },
+  {
+    "id": "return_002",
+    "category": "RETURN_REQUEST",
+    "title": "How to Request a Return or Exchange",
+    "content": "Go to My Account > My Orders, select the order, tap Return or Exchange, choose the item and the reason, then pick a free pickup or a drop-off option. A courier pickup is normally scheduled within 2-3 business days. Keep the item packed with its original tags until the courier arrives.",
+    "keywords": ["how to return", "return request", "exchange item", "pickup"]
+  },
+  {
+    "id": "return_003",
+    "category": "RETURN_REQUEST",
+    "title": "Damaged, Defective or Wrong Item Received",
+    "content": "If your item arrives damaged, defective or different from what you ordered, report it within 7 days of delivery through My Orders and upload clear photos of the product and its packaging. We arrange a free pickup and offer either a replacement or a full refund, depending on stock availability.",
+    "keywords": ["damaged product", "defective", "wrong item", "broken", "faulty"]
+  },
+  {
+    "id": "return_004",
+    "category": "RETURN_REQUEST",
+    "title": "Non-Returnable Items",
+    "content": "For hygiene and safety reasons some items cannot be returned, including innerwear, swimwear, opened personal care products, personalised or custom-made items, digital gift cards and perishable goods. These items can only be returned if they arrive damaged or defective.",
+    "keywords": ["non returnable", "exceptions", "hygiene items", "final sale"]
+  },
+  {
+    "id": "payment_001",
+    "category": "PAYMENT_ISSUE",
+    "title": "Payment Failed at Checkout",
+    "content": "A payment can fail because of incorrect card details, insufficient balance, an expired card, a wrong OTP, or a temporary bank or network timeout. Please check your details and try again, or choose a different payment method such as UPI, net banking or another card. Your order is only confirmed after a successful payment.",
+    "keywords": ["payment failed", "checkout error", "transaction unsuccessful", "OTP failed"]
+  },
+  {
+    "id": "payment_002",
+    "category": "PAYMENT_ISSUE",
+    "title": "Card Declined by the Bank",
+    "content": "When a card is declined, the decision is made by the issuing bank and we do not receive the exact reason. Common causes are online or international transactions being disabled, a daily spending limit, or a blocked card. Contact your bank or card issuer to enable online payments, or try another card or payment method.",
+    "keywords": ["card declined", "debit card", "credit card", "bank declined", "transaction limit"]
+  },
+  {
+    "id": "payment_003",
+    "category": "PAYMENT_ISSUE",
+    "title": "Money Deducted but Order Not Confirmed",
+    "content": "If money was deducted but your order was not confirmed, the amount is usually reversed automatically to the original payment method within 5-7 business days. Please do not place the same order repeatedly. If the amount is not returned after 7 business days, contact support with your transaction reference and a screenshot of the bank message.",
+    "keywords": ["amount debited", "double charge", "charged twice", "payment deducted"]
+  },
+  {
+    "id": "payment_004",
+    "category": "PAYMENT_ISSUE",
+    "title": "Accepted Payment Methods",
+    "content": "ShopEase accepts credit cards, debit cards, UPI, net banking, popular digital wallets and gift cards. Cash on Delivery is available for eligible orders in selected locations and is shown at checkout when available. Payments are processed through secure, encrypted payment gateways, and we never store your full card number or PIN.",
+    "keywords": ["payment methods", "UPI", "cash on delivery", "COD", "wallets"]
+  },
+  {
+    "id": "refund_001",
+    "category": "REFUND_STATUS",
+    "title": "Refund Processing Time",
+    "content": "Refunds are generally processed within 5-7 business days after the returned product has been received at our warehouse and approved during the quality check. The time your bank takes to show the money is separate and may add a few extra days.",
+    "keywords": ["refund time", "when will I get my refund", "money back", "return approval"]
+  },
+  {
+    "id": "refund_002",
+    "category": "REFUND_STATUS",
+    "title": "Refund Methods and Timelines",
+    "content": "Refunds go back to the original payment method by default. Once a refund has been processed, card refunds can take 3-5 additional business days to appear on your statement, UPI and net banking refunds 1-2 business days, and wallet refunds are typically instant. For Cash on Delivery orders we refund by bank transfer after you share your bank details securely in the app, or as store credit if you prefer.",
+    "keywords": ["refund method", "original payment", "bank transfer", "store credit", "COD refund"]
+  },
+  {
+    "id": "refund_003",
+    "category": "REFUND_STATUS",
+    "title": "How to Check Your Refund Status",
+    "content": "Open My Account > Refunds to see whether a refund is Initiated, Processed or Completed. You also receive an email and SMS with a refund reference number when the refund is processed. Keep this reference number because your bank may ask for it.",
+    "keywords": ["refund status", "refund tracking", "reference number"]
+  },
+  {
+    "id": "refund_004",
+    "category": "REFUND_STATUS",
+    "title": "Refund Not Received or Delayed",
+    "content": "If more than 10 business days have passed since your refund showed as Processed and you still do not see the money, first check with your bank using the refund reference number. If the bank cannot locate it, contact support with your order ID and the reference number and we will escalate the case.",
+    "keywords": ["refund delayed", "refund not received", "missing refund", "still waiting"]
+  },
+  {
+    "id": "cancel_001",
+    "category": "CANCELLATION",
+    "title": "Cancel an Order Before It Ships",
+    "content": "You can cancel an order free of charge until it is marked Shipped. Go to My Account > My Orders, select the order, tap Cancel Order and choose a reason. Once the cancellation is confirmed you receive an email and the Cancelled status appears in your order history.",
+    "keywords": ["cancel order", "stop purchase", "cancel before shipping", "changed my mind"]
+  },
+  {
+    "id": "cancel_002",
+    "category": "CANCELLATION",
+    "title": "Cancellation After the Order Has Shipped",
+    "content": "Once an order is marked Shipped it can no longer be cancelled. You can either refuse the parcel when the courier arrives, or accept it and start a return within the return window. Refused parcels are sent back to our warehouse and refunded after they are received.",
+    "keywords": ["cancel after shipping", "refuse delivery", "order shipped", "cannot cancel"]
+  },
+  {
+    "id": "cancel_003",
+    "category": "CANCELLATION",
+    "title": "Refund After Cancellation",
+    "content": "For prepaid orders, the amount is refunded to the original payment method within 3-5 business days after the cancellation is confirmed. Cash on Delivery orders have nothing to refund because no payment was collected. You receive a confirmation message with the refund details.",
+    "keywords": ["cancellation refund", "cancelled order money", "prepaid refund"]
+  },
+  {
+    "id": "cancel_004",
+    "category": "CANCELLATION",
+    "title": "Cancel One Item or Order Cancelled by ShopEase",
+    "content": "In an order with several items you can cancel individual items before they ship from the order details page. In rare cases ShopEase may cancel an order because an item is out of stock or a payment could not be verified. You are then notified by email and any amount paid is refunded automatically.",
+    "keywords": ["partial cancellation", "out of stock", "order cancelled by seller", "cancel one item"]
+  },
+  {
+    "id": "delivery_001",
+    "category": "DELIVERY_INFORMATION",
+    "title": "Standard Delivery Times",
+    "content": "Standard delivery usually takes 2-4 business days in major cities, 4-7 business days in other cities and 7-10 business days in remote areas. Delivery estimates are shown on each product page and at checkout after you enter your pin code, which also confirms whether we deliver to your area. Business days exclude Sundays and public holidays.",
+    "keywords": ["delivery time", "how long delivery", "shipping duration", "pin code"]
+  },
+  {
+    "id": "delivery_002",
+    "category": "DELIVERY_INFORMATION",
+    "title": "Express and Same-Day Delivery",
+    "content": "Express delivery takes 1-2 business days and is available in selected cities for an additional fee shown at checkout. Same-day delivery is offered for eligible items ordered before 12 noon in participating cities. Availability depends on the item and your delivery pin code.",
+    "keywords": ["express delivery", "same day delivery", "fast shipping"]
+  },
+  {
+    "id": "delivery_003",
+    "category": "DELIVERY_INFORMATION",
+    "title": "Shipping Charges and Free Delivery",
+    "content": "Orders above the free-shipping threshold displayed at checkout ship free of charge. For smaller orders a flat delivery fee is added and shown before you pay, so there are no hidden charges. Express and same-day options may carry an extra fee.",
+    "keywords": ["shipping cost", "delivery fee", "free shipping"]
+  },
+  {
+    "id": "delivery_004",
+    "category": "DELIVERY_INFORMATION",
+    "title": "Delivery Attempts and Address Changes",
+    "content": "The courier makes up to 3 delivery attempts. If all attempts fail, the parcel is returned to our warehouse and the order is refunded. You can change your delivery address from My Orders only before the order is Shipped; after shipping, the address cannot be changed.",
+    "keywords": ["change address", "failed delivery", "delivery attempt", "wrong address"]
+  },
+  {
+    "id": "faq_001",
+    "category": "GENERAL_FAQ",
+    "title": "Contacting Customer Support",
+    "content": "You can reach our support team through the Help Centre in the ShopEase app or website using chat or email. Support is available from 9 AM to 9 PM, seven days a week, and email queries are answered within 24 hours. Please keep your order ID ready to speed things up.",
+    "keywords": ["contact support", "customer service", "help centre", "support hours"]
+  },
+  {
+    "id": "faq_002",
+    "category": "GENERAL_FAQ",
+    "title": "Managing Your Account",
+    "content": "You can update your name, phone number, email and saved addresses from My Account > Profile. If you forget your password, choose Forgot Password on the login page and follow the link sent to your registered email. We recommend a strong, unique password.",
+    "keywords": ["account", "password reset", "update address", "profile"]
+  },
+  {
+    "id": "faq_003",
+    "category": "GENERAL_FAQ",
+    "title": "Product Authenticity and Warranty",
+    "content": "All products sold on ShopEase are sourced from authorised brands and sellers and are genuine. Eligible electronics and appliances carry the manufacturer's warranty, and your invoice, available in My Orders, serves as proof of purchase for warranty claims. Warranty repairs are handled by the brand's service centres.",
+    "keywords": ["genuine", "authentic", "warranty", "invoice"]
+  },
+  {
+    "id": "faq_004",
+    "category": "GENERAL_FAQ",
+    "title": "Discount Codes and Offers",
+    "content": "Enter a discount code in the Apply Coupon box at checkout. Only one code can be used per order and codes cannot be combined with other offers unless stated. Expired or already-used codes cannot be reinstated, and the terms of each offer are shown on the offer page.",
+    "keywords": ["coupon", "promo code", "discount", "offers"]
+  },
+  {
+    "id": "faq_005",
+    "category": "GENERAL_FAQ",
+    "title": "Account Security and Privacy",
+    "content": "ShopEase support will never ask for your password, card PIN, CVV or OTP. Do not share these details in chat, email or over the phone. If you suspect unauthorised activity on your account, change your password immediately and contact support through the Help Centre.",
+    "keywords": ["security", "privacy", "scam", "OTP", "safe"]
+  }
+]

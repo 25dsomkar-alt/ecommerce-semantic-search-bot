@@ -1,0 +1,72 @@
+{
+  "ORDER_TRACKING": [
+    "Where is my parcel right now?",
+    "How can I track my order?",
+    "I placed an order last week and there is no update on it.",
+    "The tracking page still shows the same status.",
+    "My package says delivered but I never received it.",
+    "Can you tell me the current status of my order?",
+    "It has been many days and my order has not reached me.",
+    "I did not get a tracking number for my purchase."
+  ],
+  "RETURN_REQUEST": [
+    "I would like to send this item back.",
+    "How do I return a product I bought?",
+    "The item arrived broken and I want to return it.",
+    "I received the wrong size, can I exchange it?",
+    "What is your return policy?",
+    "Please arrange a pickup for my return.",
+    "The product is defective and I do not want to keep it.",
+    "Can I return something I have already used?"
+  ],
+  "PAYMENT_ISSUE": [
+    "My payment did not go through.",
+    "The money was deducted but my order was not confirmed.",
+    "My card keeps getting declined at checkout.",
+    "I was charged twice for the same purchase.",
+    "UPI payment failed and I do not know why.",
+    "Which payment methods do you accept?",
+    "The checkout page shows a payment error.",
+    "Can I pay cash on delivery?"
+  ],
+  "REFUND_STATUS": [
+    "Where is my refund?",
+    "I returned the item but I have not got my money back.",
+    "How many days does a refund take to arrive?",
+    "My refund shows as processed but nothing has reached my bank.",
+    "Can you check the status of my refund?",
+    "I am still waiting for my money after sending the product back.",
+    "Will the refund go to my original payment method?",
+    "How long until the reimbursement shows up in my account?"
+  ],
+  "CANCELLATION": [
+    "I want to cancel my order.",
+    "Is it possible to stop my purchase before it ships?",
+    "I changed my mind and do not want the item anymore.",
+    "How do I cancel one item from my order?",
+    "Can I still cancel after the order has shipped?",
+    "My order was cancelled without any notice.",
+    "I ordered by mistake and need to cancel.",
+    "I cancelled an order, what happens to my payment?"
+  ],
+  "DELIVERY_INFORMATION": [
+    "How many days will delivery take?",
+    "Do you offer same day delivery?",
+    "What are the shipping charges?",
+    "Can I change my delivery address?",
+    "Do you deliver to my area?",
+    "Is there free shipping on my order?",
+    "The courier could not deliver, what happens now?",
+    "When will my order arrive if I choose express shipping?"
+  ],
+  "GENERAL_FAQ": [
+    "How can I contact customer support?",
+    "I forgot my account password.",
+    "Are your products genuine?",
+    "How do I use a discount coupon?",
+    "What are your customer service hours?",
+    "Does this product come with a warranty?",
+    "How do I update my phone number on my account?",
+    "Is it safe to share my card details in chat?"
+  ]
+}
